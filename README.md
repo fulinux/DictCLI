@@ -38,6 +38,7 @@ Ubuntu$ sudo apt-get install libreadline-dev libsqlite3-dev
 <pre>
 Ubuntu$ cd DictDLI/dict
 Ubuntu$ ./configure
+Ubuntu$ make clean
 Ubuntu$ make
 Ubuntu$ make install
 </pre>
